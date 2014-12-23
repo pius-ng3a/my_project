@@ -5,3 +5,6 @@
 
 
 # intention is to get the basics of github to enable me use version controls on group projects
+#you need to master version control in order not to temper with group code 
+# its worth working with.
+
